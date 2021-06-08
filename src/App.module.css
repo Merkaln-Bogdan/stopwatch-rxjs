@@ -1,0 +1,21 @@
+.wrapper{
+    width: 235px;
+    margin: 0 auto;
+    margin-top: 40px;
+    color: rgb(77, 77, 131);
+}
+
+.title{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    text-align: center;
+}
+.watchItem{
+    display: flex;
+    justify-content: space-between;
+    font-size: 25px;
+    padding: 2px;
+    border: 1px solid black;
+    width: 440px;
+    height: 30px;
+}
